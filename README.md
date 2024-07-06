@@ -1,6 +1,6 @@
-QuickConnect_Video.mp4		00:03:33	6.2 MB	
-Description
-This project is a live chat application designed to provide users with a seamless and interactive messaging experience.
+## Description
+- QuickConnect_Video.mp4		00:03:33	6.2 MB	
+- This project is a live chat application designed to provide users with a seamless and interactive messaging experience.
 
 ## Features:
 1. Real-Time Communication: Utilizes Socket.IO to enable real-time messaging between users.
@@ -39,9 +39,10 @@ Run the application:
 ```
 npm start
 ```
-Access the application: Open your web browser and navigate to http://localhost:3000.
+### Access the application:
+#### Open your web browser and navigate to http://localhost:3000.
 
 ## Future Improvements
--Implement additional features such as media sharing.
--Enhance the user interface for a more intuitive user experience.
--Optimize performance and scalability for handling a larger user base.
+- Implement additional features such as media sharing.
+- Enhance the user interface for a more intuitive user experience.
+- Optimize performance and scalability for handling a larger user base.
