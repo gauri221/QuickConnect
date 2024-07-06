@@ -1,5 +1,5 @@
 ## Description
-- QuickConnect_Video.mp4		00:03:33	6.2 MB	
+- ![Video](QuickConnect_Video.mp4		00:03:33	6.2 MB)
 - This project is a live chat application designed to provide users with a seamless and interactive messaging experience.
 
 ## Features:
