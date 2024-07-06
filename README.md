@@ -46,4 +46,4 @@ npm start
 - Enhance the user interface for a more intuitive user experience.
 - Optimize performance and scalability for handling a larger user base.
 
-![Download Video](https://github.com/gauri221/Video-Photos/blob/main/QuickConnect_Video.mp4)
+[Download Video](https://github.com/gauri221/Video-Photos/raw/main/QuickConnect_Video.mp4)
