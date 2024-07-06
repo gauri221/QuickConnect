@@ -1,5 +1,4 @@
 ## Description
-- ![Video](QuickConnect_Video.mp4		00:03:33	6.2 MB)
 - This project is a live chat application designed to provide users with a seamless and interactive messaging experience.
 
 ## Features:
@@ -46,3 +45,5 @@ npm start
 - Implement additional features such as media sharing.
 - Enhance the user interface for a more intuitive user experience.
 - Optimize performance and scalability for handling a larger user base.
+
+![Download Video](https://github.com/gauri221/Video-Photos/blob/main/QuickConnect_Video.mp4)
